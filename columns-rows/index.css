@@ -1,0 +1,15 @@
+body{
+    font-family: arial;
+    color: black;
+}
+.item{
+    background-color: rgb(66, 66, 141);
+    color: white;
+    border: 1px solid rgb(152, 151, 151);
+    text-align: center;
+    padding: 5px;
+}
+.container{
+    
+}
+

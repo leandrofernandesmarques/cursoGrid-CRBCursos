@@ -1,0 +1,27 @@
+.teste1{
+    /* 
+    ORDEM DO AREA
+    Linha Inicial
+    Colua Inicial
+    Linha Final
+    Coluna Final */
+    grid-area: 1 / 1 / 3 / 1;
+}
+.teste2{
+    /* 
+    ORDEM DO AREA
+    Linha Inicial
+    Colua Inicial
+    Linha Final
+    Coluna Final */
+    grid-area: 1 / 1 / 1 / 3;
+}
+.teste3{
+    /* 
+    ORDEM DO AREA
+    Linha Inicial
+    Colua Inicial
+    Linha Final
+    Coluna Final */
+    grid-area: 1 / 1 / 3 / 3;
+}
